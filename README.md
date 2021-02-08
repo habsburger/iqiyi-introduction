@@ -3,4 +3,4 @@
 
 源码在这里:point_right:[地址](https://github.com/habsburger/advanced-css-and-sass-cn)
 
-demo在这里:point_right:[demo]()
+demo在这里:point_right:[demo](https://habsburger.github.io/iqiyi-introduction/)
